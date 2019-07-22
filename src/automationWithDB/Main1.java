@@ -1,4 +1,4 @@
-package automation;
+package automationWithDB;
 
 import java.sql.SQLException;
 

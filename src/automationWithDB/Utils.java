@@ -1,4 +1,4 @@
-package automation;
+package automationWithDB;
 
 
 
@@ -22,6 +22,7 @@ public class Utils {
 		WebDriver br = new ChromeDriver();
 		br.get("https://www.zillow.com");
 		br.findElement(By.xpath("//input[@type='text']")).sendKeys("" +us+"");
+		
 		
 	}
 

@@ -36,4 +36,7 @@ public class ComplexNumber {
         subtract(complexNumber.real,complexNumber.imaginary);
     }
     ////b///
+        public void lova() {
+    	System.out.println("dest");
+    }
 }

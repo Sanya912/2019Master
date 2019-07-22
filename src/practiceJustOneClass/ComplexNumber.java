@@ -35,8 +35,9 @@ public class ComplexNumber {
     public void subtract(ComplexNumber complexNumber){
         subtract(complexNumber.real,complexNumber.imaginary);
     }
-    ////b///
+
     public void leva() {
     	System.out.println("test");
+
     }
 }
